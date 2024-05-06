@@ -1,0 +1,23 @@
+.p-galleria-thumbnail-item {
+  border-radius: 20px !important;
+}
+
+.p-galleria-thumbnail-items {
+}
+
+.p-galleria-thumbnail-container {
+  background: transparent !important;
+}
+
+.p-galleria-thumbnail-prev,
+.p-galleria-thumbnail-next {
+  display: none;
+}
+
+.p-galleria-item img {
+  border-radius: 20px;
+}
+
+[data-pc-section="thumbnailitem"] {
+  flex: 1 0 20% !important;
+}
